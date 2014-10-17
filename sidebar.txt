@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sej:home|Door43 (sej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sej|d43-sej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sej/archive/master.zip|d43-sej.zip]]
+
+**Recent Changes**
+{{changes>ns = sej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sej|Ethnologue data]]
+
